@@ -4,7 +4,7 @@ Welcome to the Financial Researcher Crew project, powered by [crewAI](https://cr
 
 <p text-align="center">
   <img
-    src="https://github.com/user-attachments/assets/6802e608-6bb4-4815-9a8a-24597f46c62c)"
+    src="https://github.com/user-attachments/assets/6802e608-6bb4-4815-9a8a-24597f46c62c"
     height=480px
     width=480px
     >
@@ -62,5 +62,6 @@ For support, questions, or feedback regarding the FinancialResearcher Crew or cr
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
 
 
